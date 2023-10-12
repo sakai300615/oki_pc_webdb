@@ -7,4 +7,4 @@
  - XAMPP(DBサーバーおよびPHPサーバー)
    - https://www.apachefriends.org/jp/index.html
  - Visual Studio Code(HTML,PHPコードエディター)
-   - https://code.visualstudio.com/download)https://code.visualstudio.com/download
+   - https://code.visualstudio.com/download
